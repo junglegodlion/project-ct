@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+Class-Path: zookeeper-3.4.5-cdh5.7.0.jar servlet-api-2.5-6.1.14.jar ja
+ sper-runtime-5.5.23.jar commons-collections-3.2.2.jar spring-boot-sta
+ rter-2.1.7.RELEASE.jar hbase-common-1.2.0-cdh5.7.0-tests.jar hadoop-h
+ dfs-2.6.0-cdh5.7.0-tests.jar logback-classic-1.2.3.jar commons-digest
+ er-1.8.jar spring-core-5.1.9.RELEASE.jar hadoop-auth-2.6.0-cdh5.7.0.j
+ ar xml-apis-ext-1.3.04.jar hbase-annotations-1.2.0-cdh5.7.0.jar antis
+ amy-1.4.3.jar commons-fileupload-1.2.jar snappy-java-1.0.4.1.jar comm
+ ons-io-2.4.jar esapi-2.1.0.jar jamon-runtime-2.4.1.jar commons-beanut
+ ils-core-1.7.0.jar jackson-mapper-asl-1.8.8.jar jedis-2.9.0.jar commo
+ ns-configuration-1.5.jar jsp-2.1-6.1.14.jar netty-all-4.1.38.Final.ja
+ r commons-compress-1.4.1.jar jaxb-impl-2.2.3-1.jar commons-math3-3.1.
+ 1.jar jackson-jaxrs-1.8.8.jar spring-boot-2.1.7.RELEASE.jar hbase-com
+ mon-1.2.0-cdh5.7.0.jar jets3t-0.6.1.jar paranamer-2.3.jar commons-net
+ -3.1.jar apacheds-i18n-2.0.0-M15.jar commons-el-1.0.jar gson-2.8.5.ja
+ r jsr305-1.3.9.jar commons-logging-1.2.jar hadoop-annotations-2.6.0-c
+ dh5.7.0.jar jackson-core-asl-1.8.8.jar jsp-api-2.1.jar xercesImpl-2.9
+ .1.jar log4j-api-2.11.2.jar log4j-to-slf4j-2.11.2.jar hbase-prefix-tr
+ ee-1.2.0-cdh5.7.0.jar commons-httpclient-3.1.jar jersey-core-1.9.jar 
+ slf4j-log4j12-1.7.26.jar xalan-2.7.0.jar javax.annotation-api-1.3.2.j
+ ar xml-apis-1.4.01.jar logback-core-1.2.3.jar jersey-server-1.9.jar h
+ amcrest-core-1.3.jar disruptor-3.3.0.jar findbugs-annotations-1.3.9-1
+ .jar hsqldb-1.8.0.10.jar jsch-0.1.42.jar spring-context-5.1.9.RELEASE
+ .jar spring-aop-5.1.9.RELEASE.jar spring-jcl-5.1.9.RELEASE.jar hbase-
+ hadoop2-compat-1.2.0-cdh5.7.0.jar slf4j-api-1.7.26.jar commons-pool2-
+ 2.6.2.jar jasper-compiler-5.5.23.jar hadoop-common-2.6.0-cdh5.7.0.jar
+  commons-beanutils-1.7.0.jar protobuf-java-2.5.0.jar asm-3.1.jar hado
+ op-hdfs-2.6.0-cdh5.7.0.jar metrics-core-2.2.0.jar snakeyaml-1.23.jar 
+ batik-util-1.7.jar htrace-core4-4.0.1-incubating.jar httpcore-4.4.11.
+ jar javax.activation-api-1.2.0.jar commons-daemon-1.0.13.jar xom-1.2.
+ 5.jar api-asn1-api-1.0.0-M20.jar servlet-api-2.5.jar jsp-api-2.1-6.1.
+ 14.jar xmlenc-0.52.jar jcodings-1.0.8.jar hbase-protocol-1.2.0-cdh5.7
+ .0.jar httpclient-4.5.9.jar bsh-core-2.0b4.jar spring-beans-5.1.9.REL
+ EASE.jar commons-codec-1.11.jar hbase-procedure-1.2.0-cdh5.7.0.jar je
+ ttison-1.1.jar batik-css-1.7.jar batik-ext-1.7.jar xz-1.0.jar commons
+ -lang-2.6.jar api-util-1.0.0-M20.jar jersey-json-1.9.jar hbase-client
+ -1.2.0-cdh5.7.0.jar jul-to-slf4j-1.7.26.jar jetty-util-6.1.26.clouder
+ a.4.jar spring-expression-5.1.9.RELEASE.jar spring-boot-starter-loggi
+ ng-2.1.7.RELEASE.jar jetty-sslengine-6.1.26.cloudera.4.jar commons-cl
+ i-1.2.jar jackson-xc-1.8.3.jar nekohtml-1.9.22.jar curator-client-2.7
+ .1.jar curator-framework-2.7.1.jar curator-recipes-2.7.1.jar commons-
+ math-2.1.jar junit-4.12.jar avro-1.7.6-cdh5.7.0.jar jetty-6.1.26.clou
+ dera.4.jar guava-12.0.1.jar hbase-hadoop-compat-1.2.0-cdh5.7.0.jar ht
+ race-core-3.2.0-incubating.jar hbase-server-1.2.0-cdh5.7.0.jar leveld
+ bjni-all-1.8.jar log4j-1.2.17.jar joni-2.1.2.jar core-3.1.1.jar jaxb-
+ api-2.3.1.jar apacheds-kerberos-codec-2.0.0-M15.jar spring-boot-autoc
+ onfigure-2.1.7.RELEASE.jar high-scale-lib-1.1.1.jar hadoop-core-2.6.0
+ -mr1-cdh5.7.0.jar
+Main-Class: com.jungle.ct.analysis.AnalysisData
+
